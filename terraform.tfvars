@@ -5,7 +5,7 @@ resource_group = {
     location = "westus"
   }
 
-   rg2 = {
+   rg10 = {
     name     = "rg-project-06062026"
     location = "westus"
   }
