@@ -8,4 +8,9 @@ resource_group = {
     name     = "rg-project-06062026"
     location = "westus"
   }
+
+rg3 = {
+    name     = "rg-project-04062026"
+    location = "centralindia"
+  }
 }
