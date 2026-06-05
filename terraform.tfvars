@@ -19,4 +19,9 @@ rg4 = {
     name     = "rg-project-02062026"
     location = "centralindia"
   }
+
+  rg5 = {
+    name     = "rg-project-02062027"
+    location = "centralindia"
+  }
 }
